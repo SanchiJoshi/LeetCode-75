@@ -12,4 +12,4 @@ class Solution {
         }
         return (double) maxSum/k;
     }
-}
+} //
